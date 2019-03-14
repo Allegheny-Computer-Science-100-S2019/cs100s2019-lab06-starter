@@ -1,5 +1,5 @@
 
-# cs100f2018-lab6-starter
+# cs100s2019-lab6-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter files for Laboratory 6 in Computer Science 100.
@@ -182,7 +182,7 @@ access the private repositories that you created on GitHub.
 
 If you have found a problem with this assignment's provided source code, then
 you can go to the [Computer Science 100 Lab 6
-Starter](https://github.com/Allegheny-Computer-Science-100-S2019/cs100s2019-lab06-starter)
+Starter](https://github.com/Allegheny-Computer-Science-100-S2019/lab06-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. If you have found a problem with the
 [GatorGrader tool](https://github.com/GatorEducator/gatorgrader) and the way that it checks you
