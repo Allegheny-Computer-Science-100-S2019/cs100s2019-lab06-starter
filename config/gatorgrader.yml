@@ -1,29 +1,29 @@
 ---
-name: cmpsc-100-fall-2018-lab8
+name: cmpsc-100-fall-2018-lab6
 break: true
 indent: 4
 ---
 
 src/main:
     java:
-        labeight/TodoListManager.java:
+        labsix/TodoListManager.java:
             --single 5 --language Java
             --multi 2 --language Java
             --fragment "= new" --count 2
-            --fragment "if" --count 6            
+            --fragment "if" --count 6
             --fragment "while" --count 3
             --fragment "break;" --count 1
             --fragment "println(" --count 9
             --fragment "Iterator<TodoListItem>" --count 2
-		labeight/TodoList.java:
+		labsix/TodoList.java:
             --multi 9 --language Java
             --fragment "private" --count 2
             --fragment "while" --count 5
             --fragment "if" --count 4
-            --fragment ".equals" --count 2    
+            --fragment ".equals" --count 2
             --fragment "return" --count 4
             --fragment "println(" --count 0
-		labeight/TodoListItem.java:
+		labsix/TodoListItem.java:
             --multi 9 --language Java
             --fragment "private" --count 6
             --fragment "return" --count 6

@@ -1,4 +1,4 @@
-package labeight;
+package labsix;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,8 +1,8 @@
 
-# cs100f2018-lab8-starter
+# cs100f2018-lab6-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the starter files for Laboratory 8 in Computer Science 100.
+repository contains the starter files for Laboratory 6 in Computer Science 100.
 
 Since the Travis builds for this repository will initially fail (as evidenced by
 a red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
@@ -31,7 +31,7 @@ the numerical values. This is a Markdown file that must adhere to the standards
 described in the [Markdown Syntax
 Guide](https://guides.github.com/features/mastering-markdown/). Remember, you
 can preview the contents of a comitted Markdown file by clicking on the name of
-the file in your GitHub repository. 
+the file in your GitHub repository.
 
 The source code of the two Java file must also pass additional tests set by the
 [GatorGrader tool](https://github.com/GatorEducator/gatorgrader). GatorGrader will
@@ -181,14 +181,14 @@ access the private repositories that you created on GitHub.
 ## Problems
 
 If you have found a problem with this assignment's provided source code, then
-you can go to the [Computer Science 100 Lab 8
-Starter](https://github.com/Allegheny-Computer-Science-100-01-F2018/cs100f2018-lab8-starter)
+you can go to the [Computer Science 100 Lab 6
+Starter](https://github.com/Allegheny-Computer-Science-100-S2019/cs100s2019-lab06-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
-the green "New Issue" button. If you have found a problem with the 
+the green "New Issue" button. If you have found a problem with the
 [GatorGrader tool](https://github.com/GatorEducator/gatorgrader) and the way that it checks you
 assignment, then you can follow the aforementioned steps to create an issue in
 its repository. To ensure that your issue is properly resolved, please provide
-as many details as is possible about the problem that you experienced. 
+as many details as is possible about the problem that you experienced.
 
 Students who find, and use the appropriate GitHub issue tracker to correctly
 document, a mistake in any aspect of this laboratory assignment will receive

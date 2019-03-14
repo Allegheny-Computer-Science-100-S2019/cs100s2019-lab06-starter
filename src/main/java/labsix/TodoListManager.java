@@ -1,4 +1,4 @@
-package labeight;
+package labsix;
 
 import java.io.IOException;
 import java.util.Iterator;

@@ -20,14 +20,14 @@ jar {
   manifest {
     attributes(
         'Class-Path': configurations.compile.collect { it.getName() }.join(' '),
-        'Main-Class': 'labeight.TodoListManager'
+        'Main-Class': 'labsix.TodoListManager'
         )
   }
 }
 
 // give the name of the application to run with "gradle run" command
 apply plugin: 'application'
-mainClassName = 'labeight.TodoListManager'
+mainClassName = 'labsix.TodoListManager'
 
 // specify that the application will accept input from System.in
 run {

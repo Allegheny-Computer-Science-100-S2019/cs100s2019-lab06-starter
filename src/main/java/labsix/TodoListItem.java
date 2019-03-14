@@ -1,4 +1,4 @@
-package labeight;
+package labsix;
 
 /**
  * This class represents a todo list item that adheres to the "todo.txt" format. You
