@@ -1,5 +1,5 @@
 plugins {
-  id "org.gatored.gatorgradle" version "0.3.0"
+  id "org.gatored.gatorgradle" version "0.3.4"
   id "java"
 }
 
@@ -10,9 +10,9 @@ repositories {
   mavenCentral()
 }
 
-// specify the use of gradle version 4.9
+// specify the use of gradle version 5.1
 wrapper {
-  gradleVersion = '4.9'
+  gradleVersion = '5.1'
 }
 
 // declare values to place in the manifest file in the JAR
